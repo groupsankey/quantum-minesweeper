@@ -1,0 +1,4 @@
+pygame
+numpy
+qiskit
+ibm_quantum_widgets
